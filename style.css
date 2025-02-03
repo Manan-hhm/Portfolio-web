@@ -443,3 +443,19 @@ nav .fa-regular{
     color: greenyellow;
     display: block;
 }
+footer{
+    margin-top: 10px;
+    display:flexbox;
+    text-align: center;
+    background: aquamarine;
+}
+footer p{
+    text-decoration: none;
+    margin-top: 4px;
+    font-size: 15px;
+    color: #ff004f;
+}
+footer p a{
+    color: black;
+    text-decoration: underline;
+}
